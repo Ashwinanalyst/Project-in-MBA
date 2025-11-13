@@ -57,7 +57,7 @@ This project focuses on analyzing job satisfaction levels among employees at Kar
 
 ## 🔗 Project Link
 
-
+https://github.com/Ashwinanalyst/Project-in-MBA
 
 ---
 
